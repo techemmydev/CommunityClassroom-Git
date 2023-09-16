@@ -340,8 +340,13 @@ return result
 
 }
 console.log("results", max([1,2,3,4,5,6,77777777,78776,3,2,2]))
+alert("hello world");
+let summer =(a,b)=>{
+return a+b
 
-
+}
+let result1=(summer(12,23))
+console.log(result1)
 
 
 
